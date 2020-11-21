@@ -71,6 +71,10 @@ UNIX网络编程 [百度云下载链接](https://pan.baidu.com/s/1Cu301QK2cL67C6
 
 计算机是怎样跑起来的 [百度云下载链接](https://pan.baidu.com/s/1t_c6X6on4Kks5RUWNqw96w) 密码:9cr2
 
+# 数据库
+
+MySQL必知必会 [百度云下载链接](https://pan.baidu.com/s/1XOhnuX9X4Tz-yqldJeskYg) 密码:8bq3
+
 # Python
 ## 1、Python基础
 编程小白入门的第一本Python书 [百度云下载链接](https://pan.baidu.com/s/1WJHs-C6Cf7lTGnbJoOXx-A) 密码:pz7o
