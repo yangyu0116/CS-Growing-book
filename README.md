@@ -46,7 +46,7 @@ Java数据结构和算法 [百度云下载链接](https://pan.baidu.com/s/1Avzzf
 
 深入理解计算机操作系统 [百度云下载链接](https://pan.baidu.com/s/1J42r3-ib0U32hpsG8mYvyg)  密码:l5bq
 
-现代操作系统 [百度云下载链接](https://pan.baidu.com/s/1w62g7cqy6hMf3my-_Mg2Dg)  密码:huk2
+现代操作系统 [百度云下载链接](https://pan.baidu.com/s/1Qghtfy2lMNfnwZQBXjg_3g)  密码:bvl7
 
 ## 汇编语言
 汇编语言 [百度云下载链接](https://pan.baidu.com/s/1GVYruwnhKN7ZnslmsZcJ4Q) 密码:amc1
