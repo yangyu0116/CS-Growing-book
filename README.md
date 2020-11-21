@@ -175,6 +175,10 @@ JAVA编程思想 [百度云下载链接](https://pan.baidu.com/s/1vv1jvwromi---A
 
 JAVA并发编程的艺术 [百度云下载链接](https://pan.baidu.com/s/1QzuIjjbjRG8YiFAbYxvyfw)  密码:q9ii
 
+# 技术管理
+
+人月神话（一本想做技术管理必看的书，看完你就知道，并不是一万人几天就可以做一个淘宝） [百度云下载链接](https://pan.baidu.com/s/1an70CnY5aLjdY9_XiComUA) 密码:u24z
+
 # 面试相关
 
 Mysql面试题详解 [百度云下载链接](https://pan.baidu.com/s/1mr1zPuygZFcuLty5DQ6DQw) 密码:lhj7
