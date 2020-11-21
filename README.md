@@ -183,6 +183,8 @@ Java架构师面试题 [百度云下载链接](https://pan.baidu.com/s/1uG-ZLSRf
 
 C&C++面试题 [百度云下载链接](https://pan.baidu.com/s/1p4TX9OBGo0iLSEH21-f8Gw) 密码:6zxf
 
+Python面试题 [百度云下载链接](https://pan.baidu.com/s/1CPKe9orjedDplwOWUBOk-A) 密码:9uw7
+
 # 技术学习路线
 
 技术学习路线最全思维导图 [百度云下载链接](https://pan.baidu.com/s/1QaYzwX9HptcDd4XR5grPog) 密码:y0io
