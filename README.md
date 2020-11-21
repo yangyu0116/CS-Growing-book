@@ -73,7 +73,11 @@ UNIX网络编程 [百度云下载链接](https://pan.baidu.com/s/1Cu301QK2cL67C6
 
 # 数据库
 
+高性能MySQL [百度云下载链接](https://pan.baidu.com/s/1wekI510XSd_zV2ozkHV0eQ) 密码:l5sd 
+
 MySQL必知必会 [百度云下载链接](https://pan.baidu.com/s/1XOhnuX9X4Tz-yqldJeskYg) 密码:8bq3
+
+MySQL技术内幕 [百度云下载链接](https://pan.baidu.com/s/1EHkfiwhpEp9otxyHzPifGQ) 密码:fp14
 
 # Python
 ## 1、Python基础
