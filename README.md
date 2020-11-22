@@ -14,13 +14,6 @@
 [![](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-findyi-lightgrey)](https://www.zhihu.com/people/yi-yang-91-9)
 
 
-
-
-
-
-
-
-
 # 程序员认知和成长
 
 - [关于程序员职场晋升，这是我的7点具体建议](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247485585&idx=1&sn=6e0f3d914a4b247543ee10ed2bd4b19b&chksm=9f1517fea8629ee8cca93f73063be8ec2dd320cf95a605e6fbfc13d9fb57d92ac69ba75ea357&token=1081450084&lang=zh_CN#rd)
@@ -39,7 +32,7 @@
 
 工程师晋级路线图：
 
-![工程师成长路线.jpeg](http://note.youdao.com/yws/res/15990/WEBRESOURCEe3fbd88985a58253bdb684147dcb67f6)
+![工程师成长路线.jpeg](https://github-yiyang.oss-cn-beijing.aliyuncs.com/WechatIMG7798.jpeg?Expires=1606034490&OSSAccessKeyId=TMP.3KjqbKEEivMe9mzaUjUySK8t7kq4LhmFhj59UGrr9LmMNUe4sWR6b7eNmdzZWqXeJx6t26MWNM14Ek2twSPoQskw3TfNwT&Signature=yIcdaVJQ6fqOZA%2FYj8nH7mgS8GU%3D&versionId=CAEQDhiBgIDYic27rxciIDg2YTJhMjQwYjk5MzRjMjY5YzZkYzBhNDdiZTEyNmM0&response-content-type=application%2Foctet-stream)
 
 # 数据结构与算法相关书籍
 
