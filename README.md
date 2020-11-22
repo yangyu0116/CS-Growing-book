@@ -22,6 +22,10 @@
 - [一个CTO的日常](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247484186&idx=1&sn=4b0b7cee68de7ef08cbf647b6ccc39d2&chksm=9f151c75a8629563f77873556c8ae976a1db0951b6b47f4e6a63beb90dd9425373e1b189c3ac&token=1081450084&lang=zh_CN#rd)
 - [别做复制粘贴工程师！](https://mp.weixin.qq.com/s/oGG_Zj4xKPcqDVwG__WT8Q)
 
+工程师晋级路线图：
+
+![工程师成长路线.jpeg](https://note.youdao.com/src/WEBRESOURCEe3fbd88985a58253bdb684147dcb67f6)
+
 # 数据结构与算法相关书籍
 
 Java数据结构和算法 [百度云下载链接](https://pan.baidu.com/s/1AvzzfwDfhm2-A8Bzi7CNPQ) 密码:b0gt
