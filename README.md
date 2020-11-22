@@ -6,6 +6,21 @@
 
 > 重要说明：这些书涵盖入门和进阶所需，请大家各取所需，另外还会一些程序员认知提升的书和我从小白到CTO之路的PPT，后续我自己的原创pdf，陆续会提交上来，请大家持续关注这个项目。
 
+[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-findyi-blue)](https://mp.weixin.qq.com/s/H6LSo_4w0S7fEonq1u2vgg)
+[![](https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen)](https://mp.weixin.qq.com/s/H6LSo_4w0S7fEonq1u2vgg) 
+[![](https://img.shields.io/badge/csdn-findyi-yellow)](https://blog.csdn.net/Pineforvip?spm=1010.2135.3001.5113) 
+[![](https://img.shields.io/badge/%E5%A4%B4%E6%9D%A1-findyi-orange)](https://www.toutiao.com/c/user/token/MS4wLjABAAAADepY1t8meky76iLkF06NCZ-pfeH_PmaJQ2BFHAOpw84/) 
+[![](https://img.shields.io/badge/bilibili-findyi-red)](https://space.bilibili.com/7936249)
+[![](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-findyi-lightgrey)](https://www.zhihu.com/people/yi-yang-91-9)
+
+
+
+
+
+
+
+
+
 # 程序员认知和成长
 
 - [关于程序员职场晋升，这是我的7点具体建议](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247485585&idx=1&sn=6e0f3d914a4b247543ee10ed2bd4b19b&chksm=9f1517fea8629ee8cca93f73063be8ec2dd320cf95a605e6fbfc13d9fb57d92ac69ba75ea357&token=1081450084&lang=zh_CN#rd)
@@ -24,7 +39,7 @@
 
 工程师晋级路线图：
 
-![工程师成长路线.jpeg](https://note.youdao.com/src/WEBRESOURCEe3fbd88985a58253bdb684147dcb67f6)
+![工程师成长路线.jpeg](http://note.youdao.com/yws/res/15990/WEBRESOURCEe3fbd88985a58253bdb684147dcb67f6)
 
 # 数据结构与算法相关书籍
 
