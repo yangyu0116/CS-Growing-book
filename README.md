@@ -31,8 +31,8 @@
 - [别做复制粘贴工程师！](https://mp.weixin.qq.com/s/oGG_Zj4xKPcqDVwG__WT8Q)
 
 工程师晋级路线图：
+![image](https://tva1.sinaimg.cn/large/0081Kckwly1gky0nucmagj30sg0lcdgl.jpg)
 
-![工程师成长路线.jpeg](https://github-yiyang.oss-cn-beijing.aliyuncs.com/WechatIMG7798.jpeg?Expires=1606034490&OSSAccessKeyId=TMP.3KjqbKEEivMe9mzaUjUySK8t7kq4LhmFhj59UGrr9LmMNUe4sWR6b7eNmdzZWqXeJx6t26MWNM14Ek2twSPoQskw3TfNwT&Signature=yIcdaVJQ6fqOZA%2FYj8nH7mgS8GU%3D&versionId=CAEQDhiBgIDYic27rxciIDg2YTJhMjQwYjk5MzRjMjY5YzZkYzBhNDdiZTEyNmM0&response-content-type=application%2Foctet-stream)
 
 # 数据结构与算法相关书籍
 
