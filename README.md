@@ -14,23 +14,30 @@
 [![](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-findyi-lightgrey)](https://www.zhihu.com/people/yi-yang-91-9)
 
 
-# 程序员认知和成长
+# 程序员技术、管理和认知
+## 程序员技术&管理
 
 - [关于程序员职场晋升，这是我的7点具体建议](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247485585&idx=1&sn=6e0f3d914a4b247543ee10ed2bd4b19b&chksm=9f1517fea8629ee8cca93f73063be8ec2dd320cf95a605e6fbfc13d9fb57d92ac69ba75ea357&token=1081450084&lang=zh_CN#rd)
-- [工作3，5年选择大厂还是小厂](https://mp.weixin.qq.com/s/qC_VzeJKwL7y-VRmfGkJfg)
 - [优秀程序员的7个特点](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247484134&idx=1&sn=c0e5bc9a761c204518698c1aad528042&chksm=9f151d89a862949fad4957d7472501f56e884dbf74f7110cabbbf726ebd294faeea2f162ae5b&token=1081450084&lang=zh_CN#rd)
 - [对码农后浪的6点建议](https://mp.weixin.qq.com/s/HBE568YYrQZqv-DgadJqvw)
 - [程序员百万年薪进阶指南](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247484141&idx=1&sn=a6ca9326f90fb854380d7cb5d524aff7&chksm=9f151d82a862949433fc917faac170e68e2bc550747af9c9b2cce43137e37e36b0169a6da2bf&token=1081450084&lang=zh_CN#rd)
-- [程序员如何实现财务自由？](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247485477&idx=1&sn=802bfc4e79e06972636b87503dddef6e&chksm=9f15174aa8629e5c5ecabf0ec4f7d159483968f894d3b3010c6bd00a6aff943b950136aa8b28&token=1081450084&lang=zh_CN#rd)
 - [做好技术管理，你必须跨越的4个槛](https://mp.weixin.qq.com/s/D_8MJhKMsAs8wBKqu9c26Q)
 - [做管理必须避开的六个坑](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247484148&idx=1&sn=8d1041c9327d3bfa95cd1c9e2b2bc17a&chksm=9f151d9ba862948d583effc598f74c1f6f65f15e246a7dc9dbbb4bb91f513bd17673d02eecf2&token=1081450084&lang=zh_CN#rd)
 - [程序如何跨越35岁危机？](https://mp.weixin.qq.com/s/eRjdi94piQl9n9-7ME3WUw)
-- [别做大厂螺丝钉](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247486317&idx=1&sn=a8154885e39d3b2734b2a68f0d7d00bf&chksm=9f151402a8629d14cc40309a4a574e4b40151db3b6e9b235be6b957a6bb8bcd8ed2541d8adda&token=1081450084&lang=zh_CN#rd)
 - [让程序员变厉害的7个底层思维](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247486609&idx=1&sn=c75cee293e96aa84fb622730bd1a7942&chksm=9f1513fea8629ae80a56c362efac3d451d0937730af82d334a6b2958efbc2857de9dd42b6d1e&token=1081450084&lang=zh_CN#rd)
-- [一个CTO的日常](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247484186&idx=1&sn=4b0b7cee68de7ef08cbf647b6ccc39d2&chksm=9f151c75a8629563f77873556c8ae976a1db0951b6b47f4e6a63beb90dd9425373e1b189c3ac&token=1081450084&lang=zh_CN#rd)
 - [别做复制粘贴工程师！](https://mp.weixin.qq.com/s/oGG_Zj4xKPcqDVwG__WT8Q)
 
-工程师晋级路线图：
+## 程序员认知
+- [一个CTO的日常](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247484186&idx=1&sn=4b0b7cee68de7ef08cbf647b6ccc39d2&chksm=9f151c75a8629563f77873556c8ae976a1db0951b6b47f4e6a63beb90dd9425373e1b189c3ac&token=1081450084&lang=zh_CN#rd)
+- [认知升级，从首席架构师到CTO](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247486834&idx=2&sn=c3e90edeeacb6733b1ba71a8a2bf8e55&chksm=9f15121da8629b0b7a47350286561981a73efd98fea6c7374d9aa4e7b165c644f0b3cf702ea1&token=1081450084&lang=zh_CN#rd)
+- [别做大厂螺丝钉](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247486317&idx=1&sn=a8154885e39d3b2734b2a68f0d7d00bf&chksm=9f151402a8629d14cc40309a4a574e4b40151db3b6e9b235be6b957a6bb8bcd8ed2541d8adda&token=1081450084&lang=zh_CN#rd)
+- [程序员如何实现财务自由？](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247485477&idx=1&sn=802bfc4e79e06972636b87503dddef6e&chksm=9f15174aa8629e5c5ecabf0ec4f7d159483968f894d3b3010c6bd00a6aff943b950136aa8b28&token=1081450084&lang=zh_CN#rd)
+- [工作3，5年选择大厂还是小厂](https://mp.weixin.qq.com/s/qC_VzeJKwL7y-VRmfGkJfg)
+- [CTO到职责究竟是什么](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247486655&idx=1&sn=ac1f89548c96d6eb0237d5bfb1f5c31e&chksm=9f1513d0a8629ac6ce3bf15ac2791ec3947261a0bcf9a33e754a00de9661bf73725776b44793&token=1081450084&lang=zh_CN#rd)
+- [程序员如何做好时间管理？](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247485729&idx=1&sn=396bde7f8ea808fbbbe540a609435ec8&chksm=9f15164ea8629f58c9dbcf6c0d1a78507bcf77d79b063e5f351fd3e8c1c156963d7e6a6d3603&token=1081450084&lang=zh_CN#rd)
+- [应届加入腾讯的一点经历](https://mp.weixin.qq.com/s?__biz=MzA3MzA5MTU4NA==&mid=2247485300&idx=1&sn=61e0049ff7963051ca850c2c04dd5b48&chksm=9f15181ba862910d3bc4d0e707b7138d5e171c1e2724c2e1a2c38370ef08458f3efaac635017&token=1081450084&lang=zh_CN#rd)
+
+## 工程师晋级路线图：
 ![image](https://tva1.sinaimg.cn/large/0081Kckwly1gky0nucmagj30sg0lcdgl.jpg)
 
 
