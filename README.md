@@ -177,7 +177,7 @@ JAVA并发编程的艺术 [百度云下载链接](https://pan.baidu.com/s/1QzuIj
 
 # 技术管理
 
-人月神话（一本想做技术管理必看的书，看完你就知道，并不是一万人几天就可以做一个淘宝） [百度云下载链接](https://pan.baidu.com/s/1an70CnY5aLjdY9_XiComUA) 密码:u24z
+人月神话（一本想做技术管理必看的书，看完你就知道，并不是一万人几天就可以做一个淘宝） [百度云下载链接](https://pan.baidu.com/s/1MfGSc3cKdrcodnR5KKJf3w) 密码:ewew
 
 # 面试相关
 
@@ -196,7 +196,7 @@ Python面试题 [百度云下载链接](https://pan.baidu.com/s/1CPKe9orjedDplwO
 # 程序员认知提升
 代码之外的生存指南 [百度云下载链接](https://pan.baidu.com/s/1pH52-ZF1dwkjPk9nS7zl5Q) 密码:fv33
 
-findyi从小白到CTO之路 [百度云下载链接](https://pan.baidu.com/s/1WttQzU3-am3U6payPUmaog) 密码:hsmx
+从小白到CTO之路（findyi） [百度云下载链接](https://pan.baidu.com/s/1WttQzU3-am3U6payPUmaog) 密码:hsmx
 
 # 免责声明
 书籍除了部分findyi原创和findyi团队原创，其他来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1666267807@qq.com
