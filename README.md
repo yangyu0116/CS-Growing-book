@@ -164,7 +164,17 @@ C++编程思想  [百度云下载链接](https://pan.baidu.com/s/1RAVc0PBlzD6ugL
 
 C++对象模型 [百度云下载链接](https://pan.baidu.com/s/1RHBr6qg7xeo1Ec1ywib8Xw) 密码:o370 
 
-C++Primer [百度云下载链接](https://pan.baidu.com/s/1BNs4wJYFCLDe1Ix8vO6Smg) 密码:947f 
+C++Primer [百度云下载链接](https://pan.baidu.com/s/1BNs4wJYFCLDe1Ix8vO6Smg) 密码:947f
+
+C++编码规范-101条规则准则与最佳实践 [百度云下载链接](https://pan.baidu.com/s/1l1gAf7WTgR4Q7kdb-3BmEw) 密码:ns4e
+
+STL源码剖析 [百度云下载链接](https://pan.baidu.com/s/1JrOYH4POi2vNJRKHJz2l5Q) 密码:kaup
+
+Effective STL [百度云下载链接](https://pan.baidu.com/s/1dmVhgqAIfHbA_xMARabBnA) 密码:iuoo
+
+C++设计新思维-泛型编程与设计之应用 [百度云下载链接](https://pan.baidu.com/s/1gQKzYs7KRiQHRqHensSvfw) 密码:3lid
+
+深入探索C++对象模型 [百度云下载链接](https://pan.baidu.com/s/1OoYcKKbHOcVQCDg4aZ5UYA) 密码:en5x
 
 # 前端
 疯狂ajax讲义 [百度云下载链接](https://pan.baidu.com/s/1b3Ltc8BXQuoIFSeW0XXHOw) 密码:4q2c
@@ -174,6 +184,18 @@ Bootstrap实战 [百度云下载链接](https://pan.baidu.com/s/1nhssvQGSh_PyVSB
 HTML5与CSS3基础教程  [百度云下载链接](https://pan.baidu.com/s/1HGfudWWARSH7uSdVKRlsTQ) 密码:5zu9 
 
 HTML5揭秘  [百度云下载链接](https://pan.baidu.com/s/1dWmyml898oZ6AchCsL1KoQ) 密码:ell1
+
+HTML5揭秘  [百度云下载链接](https://pan.baidu.com/s/1DgGxjt3xoIAS2kSNTB4zKQ) 密码:n2pp
+
+Javascrip高级程序设计 [百度云下载链接](https://pan.baidu.com/s/1cuCjV0PH21_OZQQKoOppFw) 密码:wm3v
+
+# 中间件
+redis实战 [百度云下载链接](https://pan.baidu.com/s/1YBfE7ebo2c_OAX9uTCZIlw ) 密码:ghos
+
+# 代码重构
+修改代码的艺术 [百度云下载链接](https://pan.baidu.com/s/1lU312wfGze7E0C0Ywm_0Hg) 密码:zp88
+
+代码整洁之道 [百度云下载链接](https://pan.baidu.com/s/1eyN-qqrLR-Zj330DqTZPVA) 密码:dxnk
 
 # 人工智能
 贝叶斯思维统计建模的Python学习法 [百度云下载链接](https://pan.baidu.com/s/1UmEkPrUCZN2z94TU3yJChw) 密码:3cwb
@@ -199,6 +221,8 @@ headfirst设计模式 [百度云下载链接](https://pan.baidu.com/s/1G2EAt5UCL
 
 SOA架构知识汇总（findyi团队打造）[百度云下载链接](https://pan.baidu.com/s/1wNAydeuFfClNS7wjBuASww) 密码:mp5m
 
+领域驱动设计 [百度云下载链接](https://pan.baidu.com/s/1hokvqXSdiPCxo8_oHc0M0Q) 密码:pivm
+
 # Java
 阿里巴巴JAVA开发手册 [百度云下载链接](https://pan.baidu.com/s/1dK4Gogd-axhMHPs1K6HSOQ) 密码:o7y7
 
@@ -212,9 +236,20 @@ JAVA编程思想 [百度云下载链接](https://pan.baidu.com/s/1vv1jvwromi---A
 
 JAVA并发编程的艺术 [百度云下载链接](https://pan.baidu.com/s/1QzuIjjbjRG8YiFAbYxvyfw)  密码:q9ii
 
+# GO
+Go语言实践 [百度云下载链接](https://pan.baidu.com/s/1FDaqrAt4QgKDAb6CPS79fA) 密码:bnbe
+
+Go web编程 [百度云下载链接](https://pan.baidu.com/s/1RAMHRktP2VjPaHUDNp6aGw) 密码:zty6
+
+学习Go语言 [百度云下载链接](https://pan.baidu.com/s/15BOx_YY72fWsIZ8NOjSIwQ) 密码:t4iz
+
 # 技术管理
 
 人月神话（一本想做技术管理必看的书，看完你就知道，并不是一万人几天就可以做一个淘宝） [百度云下载链接](https://pan.baidu.com/s/1MfGSc3cKdrcodnR5KKJf3w) 密码:ewew
+
+敏捷软件开发：原则、模式与实践 [百度云下载链接](https://pan.baidu.com/s/1_7yh36LISRQg1-JMX5JKcw) 密码:mvun
+
+奔跑吧，程序员，从0开始打造技术、产品和团队 [百度云下载链接](https://pan.baidu.com/s/1tQ68sTmhWUTS3yScPuwaHQ) 密码:tbuy
 
 # 面试相关
 
@@ -226,6 +261,8 @@ C&C++面试题 [百度云下载链接](https://pan.baidu.com/s/1p4TX9OBGo0iLSEH2
 
 Python面试题 [百度云下载链接](https://pan.baidu.com/s/1CPKe9orjedDplwOWUBOk-A) 密码:9uw7
 
+程序员面试宝典 [百度云下载链接](https://pan.baidu.com/s/1Mj2wPvxo7s1o06BURQo_uA) 密码:ix9t
+
 # 技术学习路线
 
 技术学习路线最全思维导图 [百度云下载链接](https://pan.baidu.com/s/1QaYzwX9HptcDd4XR5grPog) 密码:y0io
@@ -234,6 +271,8 @@ Python面试题 [百度云下载链接](https://pan.baidu.com/s/1CPKe9orjedDplwO
 代码之外的生存指南 [百度云下载链接](https://pan.baidu.com/s/1pH52-ZF1dwkjPk9nS7zl5Q) 密码:fv33
 
 从小白到CTO之路（findyi） [百度云下载链接](https://pan.baidu.com/s/1WttQzU3-am3U6payPUmaog) 密码:hsmx
+
+天才引导历程数学中的伟大定律 [百度云下载链接](https://pan.baidu.com/s/1Yinr2fbcbtljYKv7cvsomw) aph1
 
 # 祝福
 
